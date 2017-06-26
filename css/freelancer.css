@@ -3,6 +3,9 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+@import './less/variables.less';
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -513,4 +516,45 @@ fieldset[disabled] .btn-success.active {
 }
 div#maincontent {
   outline: none;
+}
+
+.container-small {
+  padding-bottom: 50px;
+}
+
+.gray-background {
+  background-color: #eee;
+}
+
+.centered-block {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+.top-space {
+  padding-top: 30px;
+}
+
+.top-12 {
+  padding-top: 12px;
+}
+
+.left-align {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.custom-link {
+  color: white;
+}
+
+.custom-link:hover{
+  color: white;
+}
+
+.space-r {
+  padding-right: 5px;
 }
