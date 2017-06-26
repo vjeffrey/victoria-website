@@ -519,8 +519,15 @@ div#maincontent {
 }
 
 .container-small {
+  padding-top: 50px;
   padding-bottom: 50px;
 }
+
+.container-super-small {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 
 .gray-background {
   background-color: #eee;
@@ -557,4 +564,8 @@ div#maincontent {
 
 .space-r {
   padding-right: 5px;
+}
+
+.main-blog-content {
+  padding: 35px 40px 0 40px;
 }
