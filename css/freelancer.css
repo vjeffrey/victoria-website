@@ -545,6 +545,10 @@ div#maincontent {
   padding-top: 30px;
 }
 
+.bottom-space {
+  padding-bottom: 30px;
+}
+
 .top-12 {
   padding-top: 12px;
 }
