@@ -573,3 +573,7 @@ div#maincontent {
 .main-blog-content {
   padding: 35px 40px 0 40px;
 }
+
+.dark-bg {
+  color: #566573;
+}
