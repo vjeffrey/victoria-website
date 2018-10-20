@@ -5,7 +5,7 @@
   "title": "Victoria Daphnee Jeffrey's Website",
   "author": "Victoria D. Jeffrey",
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": ">=4.1.2",
     "browser-sync": "^2.13.0",
     "font-awesome": "^4.6.3",
     "gulp": "^3.9.1",
@@ -15,6 +15,6 @@
     "gulp-less": "^3.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.4",
-    "jquery": "^1.11.3"
+    "jquery": ">=3.0.0"
   }
 }
