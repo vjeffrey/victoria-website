@@ -585,3 +585,36 @@ div#maincontent {
 .dark-bg {
   color: #566573;
 }
+
+input {
+  border: none;
+  border-bottom: 1px solid #888;
+  background: transparent;
+  font-size: 18px;
+}
+
+.input {
+  padding-bottom: 30px;
+  font-size: 18px;
+}
+
+textarea {
+  width: 600px;
+  height: 200px;
+}
+
+/* Set background color for entire form */
+form {
+  background-color: #eee; 
+  text-align: center;
+}
+
+/* Button */
+.send {
+  padding: 10px 20px 20px 0;
+  text-align: center;
+}
+
+input[type=submit] {
+  background-color: #18BC9C;
+}
