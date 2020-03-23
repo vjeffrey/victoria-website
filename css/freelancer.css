@@ -566,8 +566,16 @@ div#maincontent {
   padding-left: 20px;
 }
 
+.center-align {
+  text-align: center;
+}
+
 .custom-link {
   color: white;
+}
+
+.custom-link-dark {
+  color:#2c3e50;
 }
 
 .custom-link:hover{
