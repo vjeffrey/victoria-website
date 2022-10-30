@@ -6,7 +6,7 @@
   "author": "Victoria D. Jeffrey",
   "devDependencies": {
     "bootstrap": "^4.3.1",
-    "browser-sync": "^2.26.12",
+    "browser-sync": "^2.27.10",
     "cryptiles": "^4.1.2",
     "font-awesome": "^4.6.3",
     "gulp": "^4.0.2",
